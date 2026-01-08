@@ -1,4 +1,5 @@
 **Django REST Framework, Postman**
+
 Developed a RESTful API with full CRUD functionality for managing
 data.
 Implemented authentication (JWT/Token) and data filtering for secure
